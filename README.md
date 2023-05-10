@@ -1,4 +1,5 @@
-#Numberguessinggame
+                              #Numberguessinggame
+                              
 The task is to write a Java program in which a user will get K trials to guess a randomly generated number. 
 Below are the rules of the game:
 If the guessed number is bigger than the actual number, the program will respond with the message that the guessed number is higher than the actual number.
